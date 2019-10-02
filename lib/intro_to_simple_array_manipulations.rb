@@ -13,5 +13,5 @@ end
 def pop_with_args(array)
   newlist= array.pop
   newlist += array.pop
-  return item1, item2
+  return newlist
 end
